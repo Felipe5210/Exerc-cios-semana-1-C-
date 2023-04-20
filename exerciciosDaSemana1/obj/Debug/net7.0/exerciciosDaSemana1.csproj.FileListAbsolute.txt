@@ -1,0 +1,15 @@
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\bin\Debug\net7.0\exerciciosDaSemana1.exe
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\bin\Debug\net7.0\exerciciosDaSemana1.deps.json
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\bin\Debug\net7.0\exerciciosDaSemana1.runtimeconfig.json
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\bin\Debug\net7.0\exerciciosDaSemana1.dll
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\bin\Debug\net7.0\exerciciosDaSemana1.pdb
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\obj\Debug\net7.0\exerciciosDaSemana1.csproj.AssemblyReference.cache
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\obj\Debug\net7.0\exerciciosDaSemana1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\obj\Debug\net7.0\exerciciosDaSemana1.AssemblyInfoInputs.cache
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\obj\Debug\net7.0\exerciciosDaSemana1.AssemblyInfo.cs
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\obj\Debug\net7.0\exerciciosDaSemana1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\obj\Debug\net7.0\exerciciosDaSemana1.dll
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\obj\Debug\net7.0\refint\exerciciosDaSemana1.dll
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\obj\Debug\net7.0\exerciciosDaSemana1.pdb
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\obj\Debug\net7.0\exerciciosDaSemana1.genruntimeconfig.cache
+C:\Users\Pichau\Exerc-cios-semana-1-Csharp\exerciciosDaSemana1\obj\Debug\net7.0\ref\exerciciosDaSemana1.dll
